@@ -2,7 +2,7 @@ package step2;
 
 import java.util.Scanner;
 
-public class Alarm {
+public class Q2884 {
 //"45분 일찍 알람 설정하기"
 	
 	public static void main(String[] args) {
