@@ -1,4 +1,4 @@
-package step1;
+package class1;
 
 import java.util.Scanner;
 
@@ -10,6 +10,7 @@ public class Q2884 {
 		Scanner sc = new Scanner(System.in);
 		int h = sc.nextInt();	
 		int m = sc.nextInt();
+		sc.close();
 		if (m >= 45) {
 			m -= 45;
 		} else if (m < 45) {
